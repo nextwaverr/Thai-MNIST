@@ -9,6 +9,9 @@ Thai digit handwriting and example code
 - Number dataset for train and validate [download](https://drive.google.com/open?id=1cZmfAfYXegdGGNISboq7pvPR-KnXmduw)
 - Alphabet dataset for train and validate [download](https://drive.google.com/open?id=1VMIEdmp_uPqywq3Kcd4HLwhfpbbFCHX5)
 
+- Number Image for train and validate [download](https://drive.google.com/file/d/1eWOB4igPMWhWRJza6y5CkpT6pq35rgE2/view?usp=sharing)
+- Alphabet Image for train and validate [download](https://drive.google.com/open?id=1Ne7cvbKGq9e5TeUNGKDmGgzz0tsqWAE6)
+
 # Requirement
 - Python  >= 3.4
   - TensorFlow >= 1.0
