@@ -62,3 +62,8 @@ Tel : 0858242000
 
 ## License
 [Creative commons](https://creativecommons.org/licenses/by-nd/4.0/)
+
+## Sponsor
+<p align="center">
+<img src="image/OSEDA.jpg" width="30%" height="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="image/Where in Thailand.png" width="30%" height="30%">height="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="image/True.png" width="30%" height="30%">
+</p>
